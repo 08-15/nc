@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>3.10</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>Online PAD Generator 1.33 - http://www.padbuilder.com</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>Ostcraft Ltd.</Company_Name>
+		<Address_1>53-57 Kwai Fung Crescent</Address_1>
+		<Address_2 />
+		<City_Town>Hong Kong</City_Town>
+		<State_Province />
+		<Zip_Postal_Code>nav</Zip_Postal_Code>
+		<Country>Hong Kong</Country>
+		<Company_WebSite_URL>www.ostcraft.com</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Walt</Author_First_Name>
+			<Author_Last_Name>Schafer</Author_Last_Name>
+			<Author_Email>mgm@ostcraft.com</Author_Email>
+			<Contact_First_Name>Walt</Contact_First_Name>
+			<Contact_Last_Name>Schafer</Contact_Last_Name>
+			<Contact_Email>mgm@ostcraft.com</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email />
+			<Support_Email>help@spam-x.center</Support_Email>
+			<General_Email />
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>Spam-X SOLO</Program_Name>
+		<Program_Version>1.1.0.1</Program_Version>
+		<Program_Release_Month>10</Program_Release_Month>
+		<Program_Release_Day>04</Program_Release_Day>
+		<Program_Release_Year>2020</Program_Release_Year>
+		<Program_Cost_Dollars>9.90</Program_Cost_Dollars>
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Commercial</Program_Type>
+		<Program_Release_Status>New Release</Program_Release_Status>
+		<Program_Install_Support />
+		<Program_OS_Support>WinOther</Program_OS_Support>
+		<Program_Language>English</Program_Language>
+		<Program_Change_Info />
+		<Program_Specific_Category>Business</Program_Specific_Category>
+		<Program_Category_Class>Security &amp; Privacy::Anti-Spam &amp; Anti-Spy Tools</Program_Category_Class>
+		<Program_Categories />
+		<Program_System_Requirements />
+		<File_Info>
+			<File_Size_Bytes />
+			<File_Size_K />
+			<File_Size_MB />
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count>30</Expire_Count>
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords />
+			<Char_Desc_45 />
+			<Char_Desc_80>Spam-X - the world’s first Special(eMail)Agent</Char_Desc_80>
+			<Char_Desc_250>I’m the world’s first Special(eMail)Agent, and I power email clients like Outlook, Apple Mail, Thunderbird, Gmail etc. with amazing features and functions. Your Personal Assistant to manage your mail traffic on the fly.</Char_Desc_250>
+			<Char_Desc_450 />
+			<Char_Desc_2000 />
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>www.spam-x.com</Application_Info_URL>
+			<Application_Order_URL>www.spam-x.com</Application_Order_URL>
+			<Application_Screenshot_URL />
+			<Application_Icon_URL />
+			<Application_XML_File_URL />
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>link on website</Primary_Download_URL>
+			<Secondary_Download_URL>https://help.spam-x.center/test/Spam-X Solo_1.0.1.1.exe</Secondary_Download_URL>
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions />
+		<EULA>End-User License Agreement (EULA) of Spam-X
+This End-User License Agreement ("EULA") is a legal agreement between you and OSTcraft Ltd.
+This EULA agreement governs your acquisition and use of our Spam-X software ("Software") directly from OSTcraft Ltd. or indirectly through a OSTcraft Ltd. authorized reseller or distributor (a "Reseller").
+Please read this EULA agreement carefully before completing the installation process and using the Spam-X software. It provides a license to use the Spam-X software and contains warranty information and liability disclaimers.
+If you register for a free trial of the Spam-X software, this EULA agreement will also govern that trial. By clicking "accept" or installing and/or using the Spam-X software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.
+If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.
+This EULA agreement shall apply only to the Software supplied by OSTcraft Ltd. herewith regardless of whether other software is referred to or described herein. The terms also apply to any OSTcraft Ltd. updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply. This EULA was created by EULA Template for Spam-X. 
+License Grant
+OSTcraft Ltd. hereby grants you a personal, non-transferable, non-exclusive licence to use the Spam-X software on your devices in accordance with the terms of this EULA agreement.
+You are permitted to load the Spam-X software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the Spam-X software.
+You are not permitted to:
+•	Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things
+•	Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose
+•	Allow any third party to use the Software on behalf of or for the benefit of any third party
+•	Use the Software in any way which breaches any applicable local, national or international law
+•	use the Software for any purpose that OSTcraft Ltd. considers is a breach of this EULA agreement
+Intellectual Property and Ownership
+OSTcraft Ltd. shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of OSTcraft Ltd.
+OSTcraft Ltd. reserves the right to grant licences to use the Software to third parties.
+Termination
+This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to OSTcraft Ltd.
+It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.
+Governing Law
+This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of Hong Kong.
+V200410
+
+</EULA>
+	</Permissions>
+</XML_DIZ_INFO>
